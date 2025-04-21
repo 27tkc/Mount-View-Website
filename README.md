@@ -36,8 +36,8 @@
 ## 🖼️ Screenshots
 
 <div align="center">
- <img src="path/to/screenshot1.png" width="90%" style="margin: 10px;" /> 
+ <img src="./screenshot1.png" width="90%" style="margin: 10px;" /> 
  <br /> 
- <img src="path/to/screenshot2.png" width="40%" style="margin: 10px;" /> 
- <img src="path/to/screenshot3.png" width="40%" style="margin: 10px;" /> 
+ <img src="./screenshot2.png" width="40%" style="margin: 10px;" /> 
+ <img src="./screenshot3.png" width="40%" style="margin: 10px;" /> 
  </div>
