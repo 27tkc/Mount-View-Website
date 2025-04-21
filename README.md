@@ -1,36 +1,43 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🏔️ Mount View – Hotel Website
 
-## Getting Started
+**Mount View** is a modern hotel website designed to provide a seamless user experience for browsing available rooms, making bookings, and exploring the amenities of the hotel. Built with **Next.js**, **TailwindCSS**, and **Supabase**, this platform offers a clean and intuitive interface for potential guests to explore and book rooms.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🌟 Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Browse Rooms & Amenities**  
+  Explore a variety of room options and hotel amenities with high-quality images and detailed descriptions.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- **Room Availability & Booking**  
+  Check real-time availability and easily make bookings for your preferred dates.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- **Responsive Design**  
+  A fully responsive design optimized for desktop, tablet, and mobile devices, ensuring a smooth browsing experience across all platforms.
 
-## Learn More
+- **User-friendly Interface**  
+  Clean, modern UI built with **TailwindCSS**, providing an effortless user experience for hotel guests.
 
-To learn more about Next.js, take a look at the following resources:
+- **Secure Booking**  
+  Secure booking flow using **NextAuth.js** to ensure user safety during the reservation process.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## ⚙️ Tech Stack
 
-## Deploy on Vercel
+- **Next.js** – React framework for building fast and SEO-friendly websites.
+- **Supabase** – Backend-as-a-Service for managing real-time data and ensuring smooth booking experiences.
+- **TailwindCSS** – Utility-first CSS framework for modern, responsive design.
+- **NextAuth.js** – Authentication for managing user sessions and bookings securely.
+- **React** – Component-based UI library for building interactive web pages.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## 🖼️ Screenshots
+
+<div align="center">
+ <img src="path/to/screenshot1.png" width="90%" style="margin: 10px;" /> 
+ <br /> 
+ <img src="path/to/screenshot2.png" width="40%" style="margin: 10px;" /> 
+ <img src="path/to/screenshot3.png" width="40%" style="margin: 10px;" /> 
+ </div>
