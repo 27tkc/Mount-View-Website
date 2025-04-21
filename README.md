@@ -1,6 +1,6 @@
 # 🏔️ Mount View – Hotel Website
 
-**Mount View** is a modern hotel website designed to provide a seamless user experience for browsing available rooms, making bookings, and exploring the amenities of the hotel. Built with **Next.js**, **TailwindCSS**, and **Supabase**, this platform offers a clean and intuitive interface for potential guests to explore and book rooms.
+**Mount View** is a modern hotel website designed to provide a seamless user experience for browsing available rooms, making bookings, and exploring the amenities of the hotel. Built with **Vite.js**, **TailwindCSS**, and **Supabase**, this platform offers a clean and intuitive interface for potential guests to explore and book rooms.
 
 ---
 
@@ -25,7 +25,7 @@
 
 ## ⚙️ Tech Stack
 
-- **Next.js** – React framework for building fast and SEO-friendly websites.
+- **Vite.js** – React framework for building fast and SEO-friendly websites.
 - **Supabase** – Backend-as-a-Service for managing real-time data and ensuring smooth booking experiences.
 - **TailwindCSS** – Utility-first CSS framework for modern, responsive design.
 - **NextAuth.js** – Authentication for managing user sessions and bookings securely.
